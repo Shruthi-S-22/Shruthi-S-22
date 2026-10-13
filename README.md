@@ -1,16 +1,14 @@
-## Hi there 👋
+Code. Create. Innovate. Repeat.
+I'm Shruthi,
+An aspiring engineer driven by curiosity and a passion for technology. I believe every great innovation begins with a simple question: "What if?"
 
-<!--
-**Shruthi-S-22/Shruthi-S-22** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹  Exploring code, circuits, and creative solutions
+🔹  Passionate about logical thinking and problem-solving
+🔹  Curious about science, technology, and innovation
+🔹  Believer in collaboration, creativity, and lifelong learning
+🔹 Currently learning, building, and growing — one project at a time.
+🔹 Turning curiosity into possibilities, and possibilities into reality
+🔹 Interests: Programming, Electronics, Emerging Technologies, and Innovation
+🔹 Skills I'm developing: C Programming, Web Development, Logical Thinking, and Problem-Solving
+🔹 Beyond Coding: Teamwork, Science, Quizzes, and Continuous Learning
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
